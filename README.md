@@ -17,7 +17,6 @@
 <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
 
 
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwiyoon2001&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=hwiyoon20010309&langs_count=4&layout=compact&theme=tokyonight&cache_seconds=3600
-)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
