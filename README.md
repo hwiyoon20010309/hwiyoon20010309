@@ -6,21 +6,7 @@
 
 📚 Languages / Library / Tools 📚
   
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-<a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
-<a href='https://axios-http.com/kr/docs/intro'>![js](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)</a>
-<a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
-<a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
-﻿
-
-</div>
-
 <div align="center">
-<h3>🛠 Tech Stack</h3>
 
 ### 💻 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -68,6 +54,6 @@
 <div align="center">
 <h3>🏆 Algorithm</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=네백준아이디)](https://solved.ac/네백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwiyoon01)](https://solved.ac/hwiyoon01)
 
 </div>
