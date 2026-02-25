@@ -16,6 +16,6 @@
 <a href='https://recoiljs.org/ko/'>![js](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)</a>
 <a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
 
-[![Top Langs](https://stats.dooboo.io/api/top-langs/?username=hwiyoon20010309&layout=compact)](https://github.com/hwiyoon20010309)﻿
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hwiyoon20010309&theme=react-dark"/>﻿
 
 </div>
