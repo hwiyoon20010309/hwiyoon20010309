@@ -19,31 +19,6 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hwiyoon's%20GitHub&fontSize=50)
-
-<div align="center">
-
-### 🚀 AI Native Developer | Fullstack Engineer | Researcher
-
-</div>
-
----
-
-<div align="center">
-<h3>🎨 Portfolio & Blog 🎨</h3>
-
-<a href="https://너의-노션링크">
-<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Notion&logoColor=white"/>
-</a>
-
-<a href="https://너의-블로그링크">
-<img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=Velog&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 <h3>🛠 Tech Stack</h3>
 
