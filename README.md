@@ -27,21 +27,6 @@
 
 </div>
 
----
-
-<div align="center">
-<h3>📊 GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hwiyoon20010309&show_icons=true&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hwiyoon20010309&theme=tokyonight"/>
-
-</div>
-
----
-
 <div align="center">
 <h3>📈 Activity Graph</h3>
 
