@@ -27,16 +27,3 @@
 
 </div>
 
-<div align="center">
-<h3>📈 Activity Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hwiyoon20010309&theme=react-dark"/>
-
-</div>
-
-<div align="center">
-<h3>🏆 Algorithm</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwiyoon01)](https://solved.ac/hwiyoon01)
-
-</div>
